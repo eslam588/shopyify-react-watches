@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shopyify-react-watches/static/css/main.d783ee92.chunk.css",
+    "main.js": "/shopyify-react-watches/static/js/main.78cf39a4.chunk.js",
+    "main.js.map": "/shopyify-react-watches/static/js/main.78cf39a4.chunk.js.map",
+    "runtime-main.js": "/shopyify-react-watches/static/js/runtime-main.b6dcf694.js",
+    "runtime-main.js.map": "/shopyify-react-watches/static/js/runtime-main.b6dcf694.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/shopyify-react-watches/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.aa393683.chunk.js": "/shopyify-react-watches/static/js/2.aa393683.chunk.js",
+    "static/js/2.aa393683.chunk.js.map": "/shopyify-react-watches/static/js/2.aa393683.chunk.js.map",
+    "static/js/3.2f3e2d32.chunk.js": "/shopyify-react-watches/static/js/3.2f3e2d32.chunk.js",
+    "static/js/3.2f3e2d32.chunk.js.map": "/shopyify-react-watches/static/js/3.2f3e2d32.chunk.js.map",
+    "index.html": "/shopyify-react-watches/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/shopyify-react-watches/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.d783ee92.chunk.css.map": "/shopyify-react-watches/static/css/main.d783ee92.chunk.css.map",
+    "static/js/2.aa393683.chunk.js.LICENSE.txt": "/shopyify-react-watches/static/js/2.aa393683.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/shopyify-react-watches/static/media/bars-solid.e8db7520.svg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/shopyify-react-watches/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/shopyify-react-watches/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6dcf694.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.aa393683.chunk.js",
+    "static/css/main.d783ee92.chunk.css",
+    "static/js/main.78cf39a4.chunk.js"
+  ]
+}
